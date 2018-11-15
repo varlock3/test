@@ -1,4 +1,4 @@
-token=NDI1Mzk4MjM4NDM5Mjc2NTY1.Djx5MQ.ZFMxVqhpDrrgySUkc8-mCyUWFG8
+token=-
 owner=351992751388098561
 prefix=H
 game=Tybe Hhelp
